@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotCSUtils.DllMod", "GodotCSUtils.DllMod\GodotCSUtils.DllMod.csproj", "{1A8B0FD6-BD2D-404D-B174-792171188823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotCSUtils.Runtime", "GodotCSUtils.Runtime\GodotCSUtils.Runtime.csproj", "{22DEFDEE-6E0E-4D1C-8830-EF0CF2423C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8B0FD6-BD2D-404D-B174-792171188823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8B0FD6-BD2D-404D-B174-792171188823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8B0FD6-BD2D-404D-B174-792171188823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8B0FD6-BD2D-404D-B174-792171188823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DEFDEE-6E0E-4D1C-8830-EF0CF2423C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DEFDEE-6E0E-4D1C-8830-EF0CF2423C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DEFDEE-6E0E-4D1C-8830-EF0CF2423C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DEFDEE-6E0E-4D1C-8830-EF0CF2423C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
